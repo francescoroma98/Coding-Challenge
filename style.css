@@ -1,0 +1,107 @@
+.text-logo{
+    
+    position: absolute;
+  margin-bottom: 20px;
+  right: 30;
+  left: 30;
+  
+    font-family: sans-serif;
+    margin-left: 180px;
+color: rgb(83, 226, 43);
+}
+
+.logo1 {
+    margin-top: 30px;
+    width: 200px;
+    margin: 30px;
+    margin-left: 298px;
+}
+
+.riquadro {
+    width: 808px;
+    height: 601px;
+    border-radius: 20px;
+
+    position: absolute;
+    top: 8%;
+    left: 27%;
+    margin-block: 50px;
+  
+    
+    
+background-color: rgba(0, 0, 0, 0.5);
+
+    
+  }
+  .riquadro2{
+    padding-top: 3px;
+    padding-bottom: 3px;
+    margin-top: 60px;
+    margin-bottom: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    width: 708px;
+    height: 30px;
+    background-color:rgb(83, 226, 43);
+  }
+
+  .check{
+    
+    margin-left: 50px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+  }
+  .sottotesto{
+    margin-left: 50px;
+    font-family: sans-serif;
+    font-size: small;
+    color: white;
+  }
+  .oggetto{
+    display: inline-block;
+    block-size: 0px;
+    margin-top: 0px;
+    margin-bottom: 0%;
+    font-family: sans-serif;
+    color: white;
+  }
+
+body {
+    background-image: url(background.jpg);
+    background-size: cover;                 /* l'immagine viene ridimensionata per coprire l'intero elemento */
+    background-repeat: no-repeat;
+    
+}
+.button {
+    
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 200px;
+    margin-right: 150px;
+
+
+}
+.riquadro3{
+    width: 300px;
+    height: 20px;
+    margin-top: 100px;
+    border-radius: 5px;
+
+    background-color: orange;
+}
+.riquadro4{
+    width: 400px;
+    height: 20px;
+    margin-top: 80px;
+    border-radius: 5px;
+
+    background-color: green;
+}
+.riquadro5{
+    width: 100px;
+    height: 20px;
+    margin-top: 80px;
+    border-radius: 5px;
+
+    background-color: red;
+}
